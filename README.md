@@ -15,6 +15,9 @@ This project offers two features:
 2. Open the index.html in a browser window to execute this project. 
 3. There are two buttons and the information about this is provided in project description above. Use the buttons to execute the code. 
 
+# Image
+<img src="pacman.png" alt="PacMan Project"/>
+
 # Future Improvements:
 - The 'Start Game' button - if this button is pressed multiple times when game is already in motion, it increases the velocity of the packmen
   and they move faster than before.
