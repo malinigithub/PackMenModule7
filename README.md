@@ -16,7 +16,7 @@ This project offers two features:
 3. There are two buttons and the information about this is provided in project description above. Use the buttons to execute the code. 
 
 # Image
-<img src="images/pacman.png" alt="PacMan Project"/>
+<img src="images/pacman.png" width="50%" alt="PacMan Project"/>
 
 # Future Improvements:
 - The 'Start Game' button - if this button is pressed multiple times when game is already in motion, it increases the velocity of the packmen
